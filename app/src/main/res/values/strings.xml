@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PinkCityRetailer</string>
+    <string name="empty_view_title_text">Looks like your inventory is empty</string>
+    <string name="empty_view_subtitle_text">Add an item</string>
+    <string name="hint_item_name">NAME</string>
+    <string name="hint_item_price">PRICE</string>
+    <string name="hint_item_quantity">QUANTITY</string>
+    <string name="action_save">save</string>
+    <string name="action_delete">DELETE</string>
+    <string name="editor_item_insert_success">Item Saved</string>
+    <string name="editor_item_insert_failed">Problem in saving item</string>
+    <string name="editor_item_delete_success">Item Delete</string>
+    <string name="editor_item_delete_failed">Problem in deleting item</string>
+    <string name="editor_activity_title_new_item">Add Item</string>
+    <string name="editor_activity_title_edit_item">Edit item</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
